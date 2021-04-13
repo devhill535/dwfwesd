@@ -34,7 +34,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot">
-    <img src="https://cdn.discordapp.com/avatars/744597377406599188/9e8f35539dcf29deadaffbf9a6d89927.webp?size=1024" alt="Midoriya" />
+    <img src="https://cdn.discordapp.com/attachments/693836060920250439/829259400669167686/ezgif-6-3804dd9b8381.gif" alt="Automodbot" />
 </a>
 <a href="https://youtu.be/TXzZABndSj8">
 
