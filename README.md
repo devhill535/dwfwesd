@@ -26,9 +26,10 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
 
 **[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
-### Support Discord Servers
-<a href="https://discord.gg/SEXHburyDZ"><img src="http://invidget.switchblade.xyz/SEXHburyDZ"/></a>
 
+### Bot ysupport server :
+
+<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
 <br><br>
 </div>
 
