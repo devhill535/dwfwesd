@@ -35,7 +35,7 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot">
-    <img src="https://cdn.discordapp.com/attachments/693836060920250439/829259400669167686/ezgif-6-3804dd9b8381.gif" alt="Automodbot" />
+    <img src="https://cdn.discordapp.com/attachments/824976037578014730/834743546417381414/350kb_1.gif" alt="Automodbot" />
 </a>
 <a href="https://youtu.be/TXzZABndSj8">
 
