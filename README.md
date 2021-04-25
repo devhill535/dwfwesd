@@ -14,7 +14,8 @@ Id 682981714523586606
 - ✅ economy 
 - ✅ nsfw 
 - ✅ utility 
-- ✅ owner
+- ✅ owner 
+- ✅ premium
 
 
 
@@ -27,16 +28,20 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 **[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
 
-### Bot support server :
-
-<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
-<br><br>
-</div>
 
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot">
     <img src="https://cdn.discordapp.com/attachments/824976037578014730/834743546417381414/350kb_1.gif" alt="Automodbot" />
 </a>
+### Bot support server :
+
+<a href="https://discord.gg/uC5bAzvmX5"><img src="http://invidget.switchblade.xyz/uC5bAzvmX5"/></a>
+
+<br><br>
+
+</div>
+
+
 <a href="https://youtu.be/TXzZABndSj8">
 
   <img titile="SRC" src="https://github-readme-stats.vercel.app/api/pin/?username=khanmanan&repo=automod-bot&theme=algolia&icon_color=0000ff">
