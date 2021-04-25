@@ -42,9 +42,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 </div>
 
 
-<a href="https://youtu.be/TXzZABndSj8">
+<a href="https://dsc.gg/abotsupport">
 
-  <img titile="SRC" src="https://github-readme-stats.vercel.app/api/pin/?username=khanmanan&repo=automod-bot&theme=algolia&icon_color=0000ff">
+  <img titile="SRC" src="https://invidget.switchblade.xyz/kACM4NPN9F">
 
 </a>
 
